@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Vue projects**
 
-- 👨‍💻 All of my projects are available at [https://my-recenet-portfolio.netlify.app/](https://my-recenet-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at https://iddris-portfolio.netlify.app/
 
 - 💬 Ask me about **vue,javascript,firebase**
 
