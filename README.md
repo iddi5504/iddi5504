@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Idris</h1>
 <h3 align="center">A passionate frontend developer from Ghana</h3>
 
-- 🔭 I’m currently working on [iClass](https://iclass-firebase.netlify.app/)
+- 🔭 I’m currently working on Plug
 
 - 🌱 I’m currently learning **flutter**
 
-- 👯 I’m looking to collaborate on **Vue projects**
+- 👯 I’m looking to collaborate on **Vue and Flutter projects**
 
 - 👨‍💻 All of my projects are available at https://iddris-portfolio.netlify.app/
 
