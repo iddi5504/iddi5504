@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Idris</h1>
 <h3 align="center">A passionate frontend developer from Ghana</h3>
 
-- 🔭 I’m currently working on Plug
+- 🔭 I’m currently working on a Private SASS Project
 
-- 🌱 I’m currently learning **flutter**
+- 🌱 My strongsuit is **flutter** and **Nuxt**
 
 - 👯 I’m looking to collaborate on **Vue and Flutter projects**
 
-- 👨‍💻 All of my projects are available at https://iddris-portfolio.netlify.app/
+- 👨‍💻 Some of my personal projects are available at https://iddris-portfolio.netlify.app/
 
-- 💬 Ask me about **vue,javascript,firebase**
+- 💬 Ask me about **vue,javascript,dart,firebase**
 
 - 📫 How to reach me **iddi5504@gmail.com**
 
