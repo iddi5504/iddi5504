@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Idris</h1>
+<h1 align="center">Hi 👋, I'm Iddi</h1>
 <h3 align="center">A passionate software dev from Ghana</h3>
 
 - 🔭 I’m currently working on a Private SASS Project
