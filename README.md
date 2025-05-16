@@ -1,15 +1,14 @@
 <h1 align="center">Hi 👋, I'm Iddi</h1>
-  <h3 align="center">A passionate software Engineer</h3>
+  <h3 align="center">A Fullstack Engineer</h3>
 
 - 🔭 I’m currently working on a Private SASS Project
 
-- 🌱 My strongsuit is **flutter** and **Nuxt**
 
-- 👯 I’m looking to collaborate on **Vue and Flutter projects**
+- 👯 I’m looking to collaborate on **Anything fun**
 
 - 👨‍💻 Some of my personal projects are available at https://iddris-portfolio.netlify.app/
 
-- 💬 Ask me about **vue,javascript,dart,firebase**
+- 💬 Ask me about **vue,javascript,dart,firebase, php**
 
 - 📫 How to reach me **iddi5504@gmail.com**
 
