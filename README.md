@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Iddi, A fullstack developer from Ghana
+I'm Iddi, Full-stack developer specialized in Vue 3, TypeScript, and Laravel. I build fast, scalable web apps with clean architecture and great UX. Passionate about crafting real-world solutions that make an impact.
 
 
 ## 🌐 Socials:
