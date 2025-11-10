@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Iddi, Full-stack developer specialized in Vue 3, TypeScript, and Laravel. I build fast, scalable web apps with clean architecture and great UX. Passionate about crafting real-world solutions that make an impact.
+I'm Iddi, Fullstack dev working with Vue/Nuxt, React/Next, and Laravel. Interested in open source, docs engineering, and tools that make developers’ lives easier
 
 
 ## 🌐 Socials:
