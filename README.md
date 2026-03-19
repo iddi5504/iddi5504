@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Iddi, Fullstack dev working with Vue/Nuxt, React/Next, and Laravel. Interested in open source, docs engineering, and tools that make developers’ lives easier
+I'm Iddi, a Flutter Engineer and SDK Developer building cross-platform apps and developer tools with Dart. I focus on clean architecture, API design, and creating tools that improve developer experience. Open source contributor .
 
 
 ## 🌐 Socials:
