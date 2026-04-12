@@ -1,20 +1,57 @@
-# 💫 About Me:
-I'm Iddi, a Flutter Engineer and SDK Developer building cross-platform apps and developer tools with Dart. I focus on clean architecture, API design, and creating tools that improve developer experience. Open source contributor .
+# Hi, I'm Iddi 👋
 
+Frontend Engineer focused on building **developer-facing platforms, documentation systems, and content-driven applications**.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/iddi-yakubu-9a7706253) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:iddi5504@gmail.com) 
-
-# 💻 Tech Stack:
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) 
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Nuxt JS](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxt.js&logoColor=#00DC82)  ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)  ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF)  ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=iddi5504&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=iddi5504&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=iddi5504&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+I work primarily with Next.js, React, Vue, Nuxt, and TypeScript, with a strong focus on **developer experience (DX)**, clean architecture, and scalable frontend systems.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=iddi5504&icon=0&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 What I do
+
+- Build **MDX-based documentation systems** and developer tooling  
+- Design and manage **content-driven platforms and CMS architectures**  
+- Improve **developer workflows and onboarding experiences**  
+- Work with modern frontend stacks using **Next.js, React, Vue, and TypeScript**  
+- Contribute to open source, including the Supabase ecosystem  
+
+---
+
+## 🧩 Notable Work
+
+### 📝 Documentation Systems & Tooling
+- Built MDX-based documentation workflows and preview tools for faster content iteration  
+- Focused on improving how developers write, manage, and consume documentation  
+
+### 🏗️ Multi-tenant CMS Platform
+- Built and currently manage a **multi-tenant CMS platform** used by multiple companies  
+- Enables content creation and distribution across production applications  
+
+### ⚡ Frontend Systems
+- Migrated applications to modern frameworks like Next.js  
+- Built scalable, reusable UI systems and data-driven applications  
+
+---
+
+## 🌍 Open Source
+
+Active contributor to Supabase:
+- Merged fixes improving frontend usability  
+- Participated in issue triage, discussions, and feature improvements  
+- Worked within a large production-grade open source codebase  
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend:** Next.js, React, Vue, Nuxt  
+- **Language:** TypeScript, JavaScript  
+- **Docs & Tooling:** MDX, content systems  
+- **Backend:** Laravel  
+- **Other:** CI/CD (GitHub Actions), TanStack Query  
+
+---
+
+## 📫 Connect
+
+- Portfolio: https://iddris-portfolio.netlify.app  
+- LinkedIn: https://www.linkedin.com/in/iddi-y-9a7706253/  
